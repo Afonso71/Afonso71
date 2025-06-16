@@ -1,8 +1,13 @@
 <h1 align="center">Olá 👋, eu sou o Afonso de Menezes</h1>
 <h3 align="center">Um desenvolvedor de software apaixonado por criar soluções inovadoras e experiências de usuário intuitivas.</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/afonsomenezesneto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afonsomenezesneto" height="30" width="40" /></a>
-<a href="mailto:afonso.menezesan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="afonso.menezesan@gmail.com" height="30" width="40" /></a>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/afonsomenezesneto/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afonsomenezesneto" height="30" width="40" />
+  </a>
+  <a href="mailto:afonso.menezesan@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="afonso.menezesan@gmail.com" />
+  </a>
 </p>
 
 ---
